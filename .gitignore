@@ -1,0 +1,30 @@
+# Prerequisites
+*.d
+
+# Object Files
+*.o
+*.obj
+
+# Linker Outputs
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Dynamic Libraries
+*.dylib
+
+# Static Libraries
+*.lib
+
+# Shared Objects
+*.dll
+
+# Executables
+*.exe
+
+# Debug Files
+*.pdb
+
+
